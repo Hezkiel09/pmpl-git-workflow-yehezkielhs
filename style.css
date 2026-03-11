@@ -1,18 +1,23 @@
 /* Git Workflow Simulation Styles */
+/* Modified by: Steven Elyas */
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    background-color: #dbeafe;
     text-align: center;
     margin-top: 50px;
 }
 
 h1 {
-    color: #333;
+    color: #1e3a8a;
 }
 
 button {
     padding: 10px 20px;
     font-size: 16px;
     cursor: pointer;
+    background-color: #2563eb;
+    color: white;
+    border: none;
+    border-radius: 5px;
 }
